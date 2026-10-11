@@ -32,11 +32,11 @@ I'm **Hamid**, a backend-focused developer who enjoys building useful services, 
 
 ## 🚀 Featured Projects
 
-### 🔗 [LinkCutter](https://github.com/Kene33/url-shortener)
+### 🔗 [LinkCutter](https://github.com/hamid88k/url-shortener)
 
 A FastAPI and React link shortener with accounts, workspaces, analytics and admin moderation.
 
-### 📝 [Simple Blog](https://github.com/Kene33/simple-blog)
+### 📝 [Simple Blog](https://github.com/hamid88k/simple-blog)
 
 A FastAPI blog service with authentication, posts, profiles, categories and tags.
 
